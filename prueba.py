@@ -1,9 +1,2 @@
-#codigo deprueba
-print("Hola")
-#linea de prueba
-
-print("hola mundo")
-
-#Linea de prueba para probar el commit
-print("desde SSH")
-print("HOLA MUNDO")
+#Este es un codigo de prueba para la tarea 1
+print("Tarea 1 de Sistemas Distribuidos")
